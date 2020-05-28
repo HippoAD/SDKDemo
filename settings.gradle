@@ -1,0 +1,2 @@
+rootProject.name='HippoDemo'
+include ':hippo-demo'
